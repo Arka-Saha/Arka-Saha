@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arka-Saha
 - 👀 I’m interested in everything XD
-- 🌱 I’m currently learning Flask Framework of Python
+- 🌱 Currently Freelancing and Doing small Internships
 - 💞️ I’m looking to collaborate on topics like: PYTHON, JS, HTML5, Android Dev, Java etc..
 - 📫 How to reach me : Mail Me on- i.am.arka.saha@gmail.com
 
